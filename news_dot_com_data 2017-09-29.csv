@@ -1,0 +1,110 @@
+Article Title,Article Date,Entity,Sentiment Polarity Score (VADER),Sentiment Polarity (VADER),Sentiment Polarity (Naive Bayes with Article Corpus),Sentiment Polarity (Naive Bayes with Movie Reviews),Category,Countries Affected
+US GDP lifts but storms set to slow growth,"September 29, 2017",US,10.5564,Positive,Negative,Positive,Politics & the Economy,Australia
+Fisher &amp; Paykel win in German court,"September 29, 2017",Fisher,-1.1292,Negative,Negative,Positive,Retail,Germany
+Fisher &amp; Paykel win in German court,"September 29, 2017",Paykel,-1.1292,Negative,Negative,Positive,Retail,Germany
+Fisher &amp; Paykel win in German court,"September 29, 2017",German,-1.1292,Negative,Negative,Positive,Retail,Germany
+"Copper, zinc gain on Chinese growth hopes","September 29, 2017",Copper,0.9332,Positive,Negative,Positive,Agribusiness,China
+"Copper, zinc gain on Chinese growth hopes","September 29, 2017",Chinese,0.9332,Positive,Negative,Positive,Agribusiness,China
+Gold rebounds from 6-week low as $US drops,"September 29, 2017",Gold,7.8688,Positive,Negative,Positive,Politics & the Economy,"Iraq,Jersey"
+Gold rebounds from 6-week low as $US drops,"September 29, 2017",US,7.8688,Positive,Negative,Positive,Politics & the Economy,"Iraq,Jersey"
+"Oil slips 1%, extends fall from 2015 peaks","September 29, 2017",Oil,-4.8768,Negative,Negative,Positive,Politics & the Economy,"Iraq,Turkey,United States"
+Toys R Us struggles with bankruptcy,"September 29, 2017",Toys,-4.528,Negative,Negative,Positive,Agribusiness,Canada
+Kellogg chooses vitamin exec as next CEO,"September 29, 2017",Kellogg,3.4888,Positive,Negative,Positive,Retail,America
+Trump tax plan sends $US higher,"September 28, 2017",Trump,4.6212,Positive,Negative,Positive,Politics & the Economy,"Canada,Japan"
+Millionaires' wealth hit $A81.2t in 2016,"September 28, 2017",Millionaires,10.7024,Positive,Negative,Positive,Politics & the Economy,"America,Brazil,Canada,China,France,Germany,Japan,Russia,Singapore,Sweden,United States"
+"NZ shares flat as A2, Synlait hit records","September 28, 2017",A2,16.6028,Positive,Negative,Positive,Politics & the Economy,"Australia,China,New Zealand"
+"NZ shares flat as A2, Synlait hit records","September 28, 2017",Synlait,16.6028,Positive,Negative,Positive,Politics & the Economy,"Australia,China,New Zealand"
+Rise in vacancies points to job growth,"September 28, 2017",Rise,3.5216,Positive,Negative,Positive,Politics & the Economy,Australia
+Beach Energy buys Origin assets for $1.6b,"September 28, 2017",Beach Energy,13.6168,Positive,Negative,Positive,Agribusiness,"Australia,New Zealand"
+Beach Energy buys Origin assets for $1.6b,"September 28, 2017",Origin,13.6168,Positive,Negative,Positive,Agribusiness,"Australia,New Zealand"
+Gig economy jobs raise retirement concerns,"September 28, 2017",Gig,1.6888,Positive,Negative,Positive,Politics & the Economy,Australia
+Tech giants may surf next wave of wealth,"September 28, 2017",Tech,20.7616,Positive,Negative,Positive,Financial Services,Australia
+Will private money help China's SOEs?,"September 28, 2017",China,32.9932,Positive,Negative,Positive,Financial Services,China
+Will private money help China's SOEs?,"September 28, 2017",SOEs,32.9932,Positive,Negative,Positive,Financial Services,China
+US capital goods data underscores strength,"September 28, 2017",US,2.8168,Positive,Negative,Positive,Politics & the Economy,America
+Piedmont confirms 4km mineralisation,"September 28, 2017",Piedmont,0.0,Neutral,Neutral,Negative,Special Reports,Australia
+JustKapital secures new finance facility,"September 28, 2017",JustKapital,1.686,Positive,Negative,Positive,Philanthropy & Charity,Australia
+Xref adds to integrations portfolio,"September 28, 2017",Xref,3.624,Positive,Negative,Positive,Food & Wine,Australia
+Calidus raises $10m,"September 28, 2017",Calidus,2.9404,Positive,Neutral,Positive,Deals,Australia
+Buxton finds Ni-Cu at Double Magic,"September 28, 2017",Buxton,0.9524,Positive,Negative,Negative,Philanthropy & Charity,Australia
+Kiwi sole riser on USD strength,"September 28, 2017",Kiwi,4.56,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Kiwi sole riser on USD strength,"September 28, 2017",USD,4.56,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Hackers accessed authentic SEC data,"September 27, 2017",SEC,-7.7552,Negative,Negative,Positive,Financial Services,"Jersey,Ukraine,United States"
+AGL pushes ahead with Liddell exit plans,"September 27, 2017",Liddell,9.3532,Positive,Negative,Positive,Agribusiness,Australia
+"Facebook, Google come under ad scrutiny","September 27, 2017",Facebook,4.5116,Positive,Negative,Positive,"Advertising, Marketing & Communications",Russia
+"Facebook, Google come under ad scrutiny","September 27, 2017",Google,4.5116,Positive,Negative,Positive,"Advertising, Marketing & Communications",Russia
+Afterpay secures agreement with Target,"September 27, 2017",Afterpay,6.4508,Positive,Negative,Positive,"Advertising, Marketing & Communications",Australia
+Solomon Lew maintains pressure on Myer,"September 27, 2017",Solomon Lew,4.228,Positive,Negative,Positive,Politics & the Economy,Australia
+Cyclone Debbie insurance bill hits $1.5b,"September 27, 2017",Cyclone Debbie,-5.5992,Negative,Negative,Positive,Special Reports,"Australia,United Kingdom"
+Gas bosses guarantee local supply,"September 27, 2017",Gas,4.56,Positive,Negative,Positive,Politics & the Economy,Australia
+"Shares up, Tourism Holdings, Synlait rise","September 27, 2017",Tourism Holdings,10.5832,Positive,Negative,Positive,Agribusiness,New Zealand
+"Shares up, Tourism Holdings, Synlait rise","September 27, 2017",Synlait,10.5832,Positive,Negative,Positive,Agribusiness,New Zealand
+Dollar under pressure as greenback climbs,"September 27, 2017",Dollar,1.3728,Positive,Negative,Positive,Politics & the Economy,Australia
+"Wind, batteries in AGL Liddell exit plan","September 27, 2017",Wind,5.9644,Positive,Negative,Positive,Agribusiness,Australia
+"Wind, batteries in AGL Liddell exit plan","September 27, 2017",AGL Liddell,5.9644,Positive,Negative,Positive,Agribusiness,Australia
+India steps up scrutiny of shell firms,"September 27, 2017",India,2.8752,Positive,Negative,Positive,Professions,"India,Panama"
+"Finance News Update, what you need to know","September 27, 2017",Finance News Update,4.774,Positive,Negative,Positive,Politics & the Economy,"Australia,Germany,Iraq,Russia,Turkey,United States"
+"Copper lower as oil retreats, dollar rises","September 27, 2017",Copper,-3.0256,Negative,Negative,Positive,Politics & the Economy,"China,Iraq,Turkey"
+Oil prices fall from 26-month high,"September 27, 2017",Oil,-13.3972,Negative,Negative,Positive,Politics & the Economy,"America,Iraq,United States"
+North Korea war cries stifle stocks,"September 26, 2017",North Korea,-8.1328,Negative,Negative,Positive,Politics & the Economy,"Iraq,Turkey"
+Sydney Airport appoints CEO,"September 26, 2017",Sydney Airport,2.3436,Positive,Neutral,Positive,Not-for-Profit,"Australia,Guinea,New Zealand,Papua New Guinea"
+"Energy prices, pay packets loom at AGL AGM","September 26, 2017",Energy,6.1344,Positive,Negative,Positive,Politics & the Economy,Australia
+"Energy prices, pay packets loom at AGL AGM","September 26, 2017",AGL,6.1344,Positive,Negative,Positive,Politics & the Economy,Australia
+Insurance sector aims to improve diversity,"September 26, 2017",Insurance,2.424,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Kairos confirms Pilbara gold,"September 26, 2017",Kairos,5.6372,Positive,Negative,Positive,Indigenous,Australia
+Kairos confirms Pilbara gold,"September 26, 2017",Pilbara,5.6372,Positive,Negative,Positive,Indigenous,Australia
+Innovyz helps Titomic to listing,"September 26, 2017",Innovyz,4.156,Positive,Negative,Negative,Financial Services,Australia
+Innovyz helps Titomic to listing,"September 26, 2017",Titomic,4.156,Positive,Negative,Negative,Financial Services,Australia
+Shark Mitigation receives support in US,"September 26, 2017",Shark Mitigation,8.6032,Positive,Negative,Positive,Philanthropy & Charity,United States
+New jackets help Kathmandu heat up profits,"September 26, 2017",New,19.718,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+New jackets help Kathmandu heat up profits,"September 26, 2017",Kathmandu,19.718,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Guinea bauxite mining resumes after riots,"September 26, 2017",Guinea,-3.3056,Negative,Negative,Positive,Not-for-Profit,"China,Guinea"
+France to invest E20b in energy transition,"September 26, 2017",France,11.0412,Positive,Negative,Positive,"Technology, Innovation & Science",France
+France to invest E20b in energy transition,"September 26, 2017",E20b,11.0412,Positive,Negative,Positive,"Technology, Innovation & Science",France
+UK socials fear Brexit loss of funds,"September 26, 2017",Brexit,6.2124,Positive,Negative,Positive,Politics & the Economy,Australia
+Brazil to reinstate Amazon protection,"September 26, 2017",Brazil,-3.536,Negative,Negative,Positive,Financial Services,"Brazil,Denmark"
+Brazil to reinstate Amazon protection,"September 26, 2017",Amazon,-3.536,Negative,Negative,Positive,Financial Services,"Brazil,Denmark"
+Gold rises on safe-haven buying,"September 26, 2017",Gold,-2.5892,Negative,Negative,Positive,Agribusiness,"India,United States"
+Oil hits highest since July 2015,"September 26, 2017",Oil,-8.4036,Negative,Negative,Positive,Energy,"Iran,Iraq,Kuwait,Niger,Nigeria,Russia,Turkey,United Arab Emirates"
+"Nickel, zinc rebound capped by China fears","September 26, 2017",Nickel,-1.8148,Negative,Negative,Positive,Politics & the Economy,"China,Germany"
+"Nickel, zinc rebound capped by China fears","September 26, 2017",China,-1.8148,Negative,Negative,Positive,Politics & the Economy,"China,Germany"
+Po Valley sells two oil licences in Italy,"September 26, 2017",Valley,2.5912,Positive,Negative,Positive,Deals,Australia
+Lew's Smiggle powerhouse ready for Europe,"September 25, 2017",Lew,24.328,Positive,Negative,Positive,Politics & the Economy,"Australia,Belgium,Canada,France,Hong Kong,Ireland,Malaysia,Netherlands,New Zealand,Singapore,United Kingdom"
+Lew's Smiggle powerhouse ready for Europe,"September 25, 2017",Smiggle,24.328,Positive,Negative,Positive,Politics & the Economy,"Australia,Belgium,Canada,France,Hong Kong,Ireland,Malaysia,Netherlands,New Zealand,Singapore,United Kingdom"
+"Lew slams Myer on old stock, writedowns","September 25, 2017",Lew,0.4308,Positive,Negative,Positive,Agribusiness,Australia
+"Lew slams Myer on old stock, writedowns","September 25, 2017",Myer,0.4308,Positive,Negative,Positive,Agribusiness,Australia
+Kiwi falls as markets await new government,"September 25, 2017",Kiwi,6.4552,Positive,Negative,Positive,Politics & the Economy,Australia
+Canada's top dope producer to double crop,"September 25, 2017",Canada,8.5456,Positive,Negative,Positive,Transport & Logistics,"Australia,Brazil,Canada,Chile,Germany"
+Synlait sets up R&amp;D centre,"September 25, 2017",Synlait,2.8872,Positive,Negative,Positive,Energy,New Zealand
+Home sales jump while prices remain flat,"September 25, 2017",Home,1.814,Positive,Negative,Positive,Politics & the Economy,Australia
+China banks told to stop N.Korea business,"September 25, 2017",China,-2.7208,Negative,Negative,Positive,Philanthropy & Charity,"China,United States"
+Oil up as OPEC defers output cut decision,"September 25, 2017",OPEC,-12.9716,Negative,Negative,Positive,Energy,"Niger,Nigeria,Russia"
+"Nickel falls on N Korean tension, fee hike","September 25, 2017",Nickel,-5.9852,Negative,Negative,Positive,Agribusiness,China
+"Nickel falls on N Korean tension, fee hike","September 25, 2017",Korean,-5.9852,Negative,Negative,Positive,Agribusiness,China
+Gold up amid US-North Korea tensions,"September 25, 2017",Gold,0.1724,Positive,Negative,Positive,Agribusiness,Japan
+Moody's downgrades UK's rating on Brexit,"September 23, 2017",Moody,-3.5048,Negative,Negative,Positive,Politics & the Economy,Australia
+Moody's downgrades UK's rating on Brexit,"September 23, 2017",UK,-3.5048,Negative,Negative,Positive,Politics & the Economy,Australia
+Pound drops during May's Brexit speech,"September 23, 2017",Pound,-1.4748,Negative,Neutral,Positive,Politics & the Economy,Australia
+NBN CEO pocketed $3.6m again in 2016/17,"September 22, 2017",NBN CEO,8.1844,Positive,Negative,Positive,Politics & the Economy,Australia
+Smiggle tipped to power Premier profits,"September 22, 2017",Smiggle,3.5612,Positive,Negative,Positive,Politics & the Economy,Australia
+Atrum finds coal seams Panorama North,"September 22, 2017",Atrum,1.5904,Positive,Positive,Positive,Philanthropy & Charity,Australia
+"Shale exit, payouts drag on BHP: Fitch","September 22, 2017",Shale,14.026,Positive,Negative,Positive,Agribusiness,Australia
+"L'Oreal heiress Bettencourt dies, aged 94","September 22, 2017",Bettencourt,5.9892,Positive,Negative,Positive,Professions,France
+Lufthansa to land Air Berlin assets,"September 22, 2017",Lufthansa,15.2576,Positive,Negative,Positive,Agribusiness,"Austria,Germany"
+Lufthansa to land Air Berlin assets,"September 22, 2017",Air Berlin,15.2576,Positive,Negative,Positive,Agribusiness,"Austria,Germany"
+Milan prepares for Starbucks invasion,"September 22, 2017",Milan,10.7564,Positive,Negative,Positive,Food & Wine,"America,Canada,Germany,Italy"
+Milan prepares for Starbucks invasion,"September 22, 2017",Starbucks,10.7564,Positive,Negative,Positive,Food & Wine,"America,Canada,Germany,Italy"
+German vote's a defining moment for Europe,"September 22, 2017",German,26.1332,Positive,Negative,Positive,Politics & the Economy,"France,Germany"
+Rio to buy back another $US2.5b of shares,"September 22, 2017",Rio,19.718,Positive,Negative,Positive,Special Reports,"Australia,China"
+Gold falls on Dec rate hike expectations,"September 22, 2017",Gold,-0.2556,Negative,Negative,Positive,Politics & the Economy,Australia
+Oil flat amid unease ahead of OPEC meeting,"September 22, 2017",Oil,0.2444,Positive,Negative,Positive,Politics & the Economy,"Mexico,Russia"
+Oil flat amid unease ahead of OPEC meeting,"September 22, 2017",OPEC,0.2444,Positive,Negative,Positive,Politics & the Economy,"Mexico,Russia"
+Copper hits month low after FOMC statement,"September 22, 2017",Copper,-5.9116,Negative,Negative,Positive,Agribusiness,China
+Copper hits month low after FOMC statement,"September 22, 2017",FOMC,-5.9116,Negative,Negative,Positive,Agribusiness,China
+"Finance News Update, what you need to know","September 22, 2017",Finance News Update,2.8256,Positive,Negative,Positive,Agribusiness,"Australia,China,Germany,New Zealand"
+Kiwi slips as US signals unwinding,"September 22, 2017",Kiwi,5.0068,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Kiwi slips as US signals unwinding,"September 22, 2017",US,5.0068,Positive,Negative,Positive,Politics & the Economy,"Australia,New Zealand"
+Global Energy targets Indian subcontinent,"September 22, 2017",Global Energy,1.0928,Positive,Negative,Positive,Energy,India
+Global Energy targets Indian subcontinent,"September 22, 2017",Indian,1.0928,Positive,Negative,Positive,Energy,India
+MGM secures large WA school deal,"September 22, 2017",MGM,4.3192,Positive,Negative,Positive,"Advertising, Marketing & Communications",Australia
+Optiscan tech used in digital biopsy tool,"September 22, 2017",Optiscan,4.3656,Positive,Negative,Positive,Food & Wine,United States
